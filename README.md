@@ -8,3 +8,5 @@ Utilizamos plotly.express que es una versión un poco más interactiva de matplo
 
 ## Autores
 Este proyecto fue desarrollado por [Data Wizards Gang]
+
+**Nota:** existe una versión individual y rehecha desde cero de este proyecto, con el pipeline de datos documentado, validaciones, consultas SQL, un notebook de análisis y un dashboard interactivo en Tableau Public: [migracion-interna-panama](https://github.com/JustinoLM/migracion-interna-panama).
